@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "PBO-1",
+			"path": "../../PBO/PBO-1"
+		},
+		{
+			"name": "tugas3",
+			"path": "../../PBO/tugas4/tugas3"
+		},
+		{
+			"name": "PBO",
+			"path": "../../PBO/PBO-1/PBO"
+		},
+		{
+			"name": "tugas3",
+			"path": "../../PBO/tugas4/tugas3/tugas3"
+		},
+		{
+			"name": "PBO-1",
+			"path": "../../PBO/PBO-1/PBO-1"
+		},
+		{
+			"name": "tugas3",
+			"path": "../../tugas3/tugas3"
+		}
+	],
+	"settings": {}
+}
