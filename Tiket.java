@@ -5,7 +5,6 @@ public class Tiket {
     private String namaHotel, namaPesawat, tujuan;
     private int jumlahKamar, jumlahPenumpang;
     private double hargaperKamar, hargaTiketPesawat;
-    private int diskon;
 
     public Tiket(String namaHotel, int jumlahKamar, double hargaperKamar, String namaPesawat, int jumlahPenumpang,
             double hargaTiketPesawat, String tujuan) {
@@ -70,7 +69,7 @@ public class Tiket {
         System.out.println("Nama Hotel: " + getNamaHotel() + " - Jumlah Kamar: " + getJumlahKamar()
                 + " - Harga per Kamar: " + getHargaperKamar());
         System.out.println("Total Biaya Kamar Hotel dengan diskon 45%: " + getTotalKamar());
-        System.out.println("Nama Pesawat: " + getNamaHotel() + " - Jumlah Penumpang: " + getJumlahPenumpang()
+        System.out.println("Nama Pesawat: " + getNamaPesawat() + " - Jumlah Penumpang: " + getJumlahPenumpang()
                 + " - Harga Tiket Pesawat: " + getHargaTiketPesawat());
         System.out.println(
                 "Total Harga Tiket Pesawat: " + getTotalTiketPesawat() + "  dengan biaya asuransi 29.000/penumpang");

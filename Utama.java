@@ -12,7 +12,7 @@ public class Utama {
         String Password = "123";
 
         String namaHotel, namaPesawat, tujuan;
-        int jmlkmr, jmlpenumpang, tiket;
+        int jmlkmr, jmlpenumpang;
         double hrgperkmr, hrgtiketpswt;
 
         boolean login = false;
